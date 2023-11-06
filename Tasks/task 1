@@ -1,6 +1,0 @@
-1- how to make ios and android app by python??
-
-answer--> You can create iOS and Android apps using Python 
-with the help of frameworks like Kivy, BeeWare, and Flutter. 
-These frameworks allow you to write code in Python and 
-then compile it into native apps for both platforms.
