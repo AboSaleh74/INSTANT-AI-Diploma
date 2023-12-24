@@ -1,0 +1,17 @@
+What are the types of Parsers in BeautfulSoup ??
+
+1-HTML Parsers:
+
+.html.parser: This is the built-in HTML parser that comes with Python. It's included in the standard library and is the default parser used by BeautifulSoup when you don't specify one explicitly. It's sufficient for most HTML parsing tasks.
+
+.lxml: This is a third-party parser that is often faster than the built-in parser. It is based on the lxml library.
+
+.html5lib: This is another third-party parser that parses HTML according to the HTML5 specification. It is the most lenient parser and is useful for parsing poorly formed HTML.
+
+2-XML Parsers:
+
+.xml: This is the built-in XML parser in Python. It's included in the standard library.
+
+.lxml-xml: This is the XML parser provided by the lxml library.
+
+.html5lib: While primarily an HTML parser, html5lib can also be used for parsing XML.
